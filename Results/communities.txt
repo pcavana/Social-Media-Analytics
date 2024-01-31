@@ -1,0 +1,80 @@
+2007:
+Numbers of communities: 3027
+Modularity score: 0.175941639308155
+{0: 2088, 1: 1976, 2: 1577}
+
+2008:
+Numbers of communities: 3047
+Modularity score: 0.26185088880544927
+{0: 2110, 1: 1891, 2: 1285}
+
+2009:
+Numbers of communities: 4592
+Modularity score: 0.39573127743664
+{0: 1034, 1: 977, 2: 704}
+
+2010:
+Numbers of communities: 6226
+Modularity score: 0.5041104116183034
+{0: 523, 1: 343, 2: 343}
+
+2011:
+Numbers of communities: 7766
+Modularity score: 0.6574859358919425
+{0: 290, 1: 194, 2: 168}
+
+2012:
+Numbers of communities: 8563
+Modularity score: 0.6940896517153748
+{0: 164, 1: 154, 2: 135}
+
+2013:
+Numbers of communities: 8041
+Modularity score: 0.6471478831051454
+{0: 266, 1: 215, 2: 183}
+
+2014:
+Numbers of communities: 7309
+Modularity score: 0.5483770912494692
+{0: 437, 1: 232, 2: 219}
+
+2015:
+Numbers of communities: 7765
+Modularity score: 0.6035389917874171
+{0: 521, 1: 169, 2: 144}
+
+2016: 
+Numbers of communities: 7992
+Modularity score: 0.528195001866968
+{0: 377, 1: 348, 2: 174}
+
+2017:
+Numbers of communities: 8203
+Modularity score: 0.5502106981403051
+{0: 243, 1: 186, 2: 180}
+
+2018:
+Numbers of communities: 8250
+Modularity score: 0.5267516836596412
+{0: 324, 1: 232, 2: 150}
+
+2019:
+Numbers of communities: 8763
+Modularity score: 0.6274548112544055
+{0: 186, 1: 133, 2: 132}
+
+2020:
+Numbers of communities: 9135
+Modularity score: 0.7178301601210002
+{0: 148, 1: 89, 2: 82}
+
+2021:
+Numbers of communities: 9214
+Modularity score: 0.7885771163617603
+{0: 106, 1: 67, 2: 65}
+
+2022:
+Numbers of communities: 9104
+Modularity score: 0.7406963894873595
+{0: 96, 1: 86, 2: 85}
+

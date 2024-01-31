@@ -1,0 +1,754 @@
+Year: 2007
+Number of nodes: 10000
+Number of edges: 105097
+Assortativity: -0.1413
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 0.001051
+Overall_reciprocity: 0.33518
+Number of strongly connected component: 2999
+Average degree: 10.5097
+
+
+Top 10 degree centrality connected component:
+qgyh2: 0.22792279227922793
+Flemlord: 0.15291529152915292
+NoMoreNicksLeft: 0.1343134313431343
+sid13: 0.11121112111211122
+anonymgrl: 0.10621062106210621
+maxwellhill: 0.10571057105710571
+democracy101: 0.09700970097009701
+aletoledo: 0.0968096809680968
+innocentbystander: 0.086008600860086
+ayrnieu: 0.0818081808180818
+
+Top 10 closeness centrality connected component:
+qgyh2: 0.39800665711142075
+Flemlord: 0.3530403181000591
+sid13: 0.3489618376370904
+anonymgrl: 0.3448792620470025
+maxwellhill: 0.3425136032186546
+democracy101: 0.3383221687766122
+abudabu: 0.3300392425429904
+NoMoreNicksLeft: 0.3247820965809331
+rmuser: 0.3232161062869827
+Bestman0: 0.3231093990878124
+
+Top 10 betweenness centrality connected component:
+Flemlord: 0.03610628869656135
+NoMoreNicksLeft: 0.03224540531377084
+qgyh2: 0.02062244134203257
+aletoledo: 0.01867173859738821
+ayrnieu: 0.01743439756877785
+innocentbystander: 0.015359356598151897
+deuteros: 0.012521549211755849
+rollingdivision: 0.011975438839106133
+malcontent: 0.011558732654104897
+shiner_man: 0.010328052315531968
+
+
+Year: 2008
+Number of nodes: 10000
+Number of edges: 44953
+Assortativity: -0.1069
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 0.00045
+Overall_reciprocity: 0.26058
+Number of strongly connected component: 6091
+Average degree: 4.4953
+
+
+Top 10 degree centrality connected component:
+maxwellhill: 0.0818081808180818
+revoman: 0.08110811081108112
+democracy101: 0.0742074207420742
+J-Ro: 0.07150715071507151
+qgyh2: 0.0711071107110711
+NoMoreNicksLeft: 0.0707070707070707
+justinpgardner: 0.06530653065306531
+mutatron: 0.05000500050005001
+wang-banger: 0.04820482048204821
+glengyron: 0.039603960396039604
+
+Top 10 closeness centrality connected component:
+maxwellhill: 0.263450677339236
+qgyh2: 0.2548132914097224
+democracy101: 0.25463224462495193
+J-Ro: 0.24814791834622757
+revoman: 0.24364908918751066
+justinpgardner: 0.2412435783593318
+wang-banger: 0.23932823645204915
+NoMoreNicksLeft: 0.2377230721303262
+sid13: 0.22852675660084074
+mutatron: 0.22434629217947183
+
+Top 10 betweenness centrality connected component:
+revoman: 0.034647429228913514
+NoMoreNicksLeft: 0.027716064823677927
+justinpgardner: 0.016633044110454253
+mutatron: 0.015115254144999578
+J-Ro: 0.013343546650336676
+glengyron: 0.010671091205876598
+democracy101: 0.010600750401203085
+wang-banger: 0.010109180539253745
+qgyh2: 0.007502768389412576
+Wordie: 0.007312780570001029
+Year: 2009
+Number of nodes: 10000
+Number of edges: 18869
+Assortativity: -0.0627
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 0.000189
+Overall_reciprocity: 0.29689
+Number of strongly connected component: 7381
+Average degree: 1.8869
+
+
+Top 10 degree centrality connected component:
+nixonrichard: 0.049204920492049206
+Wordie: 0.0375037503750375
+elshizzo: 0.025202520252025202
+democracy101: 0.022802280228022803
+backpackwayne: 0.022602260226022602
+sge_fan: 0.022502250225022502
+mmoss181: 0.0223022302230223
+crackduck: 0.021602160216021602
+mothereffingteresa: 0.0196019601960196
+Jareth86: 0.018001800180018002
+
+Top 10 closeness centrality connected component:
+nixonrichard: 0.15412164319618607
+Wordie: 0.1529179077689457
+democracy101: 0.1510558287656243
+mmoss181: 0.14786702510105423
+elshizzo: 0.1465204765900808
+doctorgonzo: 0.14602018203437742
+braneworld: 0.14135861220081647
+Saydrah: 0.14085625430012882
+backpackwayne: 0.1396578382485894
+Jareth86: 0.13904839615475195
+
+Top 10 betweenness centrality connected component:
+nixonrichard: 0.02768779172971462
+Wordie: 0.01676882432012711
+elshizzo: 0.008196427254414189
+backpackwayne: 0.008120650290580676
+crackduck: 0.00782509932119427
+sge_fan: 0.007351738246383691
+mothereffingteresa: 0.0065803979956790175
+Jareth86: 0.005337186657075711
+BraveSirRobin: 0.005057952243243965
+Uncerntropy: 0.0049877435986304805
+Year: 2010
+Number of nodes: 10000
+Number of edges: 9801
+Assortativity: -0.0645
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 9.8e-05
+Overall_reciprocity: 0.31078
+Number of strongly connected component: 8453
+Average degree: 0.9801
+
+
+Top 10 degree centrality connected component:
+DougBolivar: 0.0318031803180318
+insomniac84: 0.029902990299029902
+nixonrichard: 0.026002600260026005
+sheasie: 0.0167016701670167
+AmbitionOfPhilipJFry: 0.014701470147014702
+Wisco: 0.014301430143014302
+Is_that_bad: 0.012901290129012902
+NashMcCabe: 0.012901290129012902
+usuallyskeptical: 0.011701170117011701
+BrutePhysics: 0.010801080108010801
+
+Top 10 closeness centrality connected component:
+DougBolivar: 0.10666981165814488
+nixonrichard: 0.09373410688616836
+Is_that_bad: 0.09255009711497464
+insomniac84: 0.09204144701306036
+AmbitionOfPhilipJFry: 0.0903972160485551
+hardcore_1: 0.08979710686503349
+sheasie: 0.08860931444618385
+Wisco: 0.08857583907238475
+accountt1234: 0.0877689965153241
+brocious: 0.08650605559879564
+
+Top 10 betweenness centrality connected component:
+insomniac84: 0.010984681721399908
+nixonrichard: 0.0106604514058086
+DougBolivar: 0.00650064084884559
+Wisco: 0.004000291106452506
+sheasie: 0.0037922687952215927
+AmbitionOfPhilipJFry: 0.0036136359077263863
+usuallyskeptical: 0.0030002682229463102
+brocious: 0.0029748034510362373
+BrutePhysics: 0.0029660785043925985
+NashMcCabe: 0.002758449509237122
+Year: 2011
+Number of nodes: 10000
+Number of edges: 4156
+Assortativity: -0.1299
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 4.2e-05
+Overall_reciprocity: 0.31184
+Number of strongly connected component: 9266
+Average degree: 0.4156
+
+
+Top 10 degree centrality connected component:
+Mind_Virus: 0.048604860486048604
+FortHouston: 0.014601460146014602
+Wrym: 0.0093009300930093
+GTChessplayer: 0.007200720072007201
+jdubhub: 0.0070007000700070005
+Mark_Lincoln: 0.006600660066006601
+sheasie: 0.006500650065006501
+desmondo: 0.006200620062006201
+rottenart: 0.006100610061006101
+sirbruce: 0.006100610061006101
+
+Top 10 closeness centrality connected component:
+Mind_Virus: 0.0699378579833292
+FortHouston: 0.05297111529334752
+ReneFonck: 0.050330403227884485
+wojosmith: 0.049035535917140646
+hodgesmr: 0.04822970603889201
+Neonimous: 0.04762699530111816
+sawbutter: 0.04695804602334514
+dougmataconis: 0.046189644401290385
+GTChessplayer: 0.04539033916745781
+desmondo: 0.04514916844794951
+
+Top 10 betweenness centrality connected component:
+Mind_Virus: 0.005490408709216089
+FortHouston: 0.003983401614602668
+wojosmith: 0.0020940471224875946
+ReneFonck: 0.0020897645342722294
+GTChessplayer: 0.0018939604295471733
+jdubhub: 0.0015753536290107361
+Wrym: 0.0014029762178540755
+sirbruce: 0.00131997831621278
+doesurmindglow: 0.001159024283306067
+rottenart: 0.0010300142085208637
+Year: 2012
+Number of nodes: 10000
+Number of edges: 2506
+Assortativity: -0.0701
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 2.5e-05
+Overall_reciprocity: 0.36233
+Number of strongly connected component: 9526
+Average degree: 0.2506
+
+
+Top 10 degree centrality connected component:
+LettersFromTheSky: 0.022102210221022104
+bardwick: 0.011601160116011602
+I_Key_Cars: 0.009000900090009001
+OmegaSeven: 0.007200720072007201
+hollaback_girl: 0.0054005400540054005
+bodhidharma6: 0.004500450045004501
+wayndom: 0.004300430043004301
+swiheezy: 0.004000400040004
+sanph: 0.0037003700370037006
+JorgeCS: 0.0037003700370037006
+
+Top 10 closeness centrality connected component:
+LettersFromTheSky: 0.03204632301536217
+I_Key_Cars: 0.028678836875935653
+bardwick: 0.02824099203813511
+Blue126: 0.027506695442719817
+OmegaSeven: 0.02711411206267206
+rhott: 0.026862549102832832
+JorgeCS: 0.026165917181109073
+Thue: 0.026145370720817664
+hollaback_girl: 0.025982153424082166
+Squalor-: 0.025681550029279826
+
+Top 10 betweenness centrality connected component:
+LettersFromTheSky: 0.002503468269916956
+bardwick: 0.0013888319237265016
+I_Key_Cars: 0.0013193027165511182
+OmegaSeven: 0.0006496611327166572
+hollaback_girl: 0.00042728908074172794
+sanph: 0.00039022306136297463
+Oscar_Wilde_Ride: 0.0003874417927636002
+ladyvonkulp: 0.0003464557433633027
+bodhidharma6: 0.00032312522118984845
+swiheezy: 0.0003187903129438798
+Year: 2013
+Number of nodes: 10000
+Number of edges: 3636
+Assortativity: -0.1351
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 3.6e-05
+Overall_reciprocity: 0.29208
+Number of strongly connected component: 9412
+Average degree: 0.3636
+
+
+Top 10 degree centrality connected component:
+mepper: 0.0316031603160316
+twolf1: 0.0196019601960196
+chicofaraby: 0.014901490149014903
+letdogsvote: 0.013501350135013503
+geargirl: 0.011101110111011102
+gloomdoom: 0.008700870087008702
+JohnnyBeagle: 0.006100610061006101
+bowhunter_fta: 0.006000600060006001
+RandomExcess: 0.006000600060006001
+flamingboard: 0.005800580058005801
+
+Top 10 closeness centrality connected component:
+mepper: 0.054875754751047626
+twolf1: 0.04528272949246144
+geargirl: 0.03592405912358642
+letdogsvote: 0.034184743556263164
+bowhunter_fta: 0.03363377168662425
+chicofaraby: 0.033370821090637846
+charlatan: 0.031073609118661947
+plato1123: 0.030658011932437123
+chrispdx: 0.030117219547483934
+teamloki: 0.029934807315605647
+
+Top 10 betweenness centrality connected component:
+chicofaraby: 0.002279194163575128
+letdogsvote: 0.0018279436138715429
+geargirl: 0.001178101786984518
+gloomdoom: 0.0010516646613744076
+plato1123: 0.0008312588407444359
+sixbluntsdeep: 0.0007668346499677274
+flamingboard: 0.0007344686927725209
+JohnnyBeagle: 0.0006923933372682926
+RandomExcess: 0.0006304073253895063
+bowhunter_fta: 0.0006236634972179933
+Year: 2014
+Number of nodes: 10000
+Number of edges: 6430
+Assortativity: -0.0713
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 6.4e-05
+Overall_reciprocity: 0.37885
+Number of strongly connected component: 8874
+Average degree: 0.643
+
+
+Top 10 degree centrality connected component:
+geargirl: 0.019801980198019802
+sluggdiddy: 0.0178017801780178
+piede: 0.016301630163016303
+onique: 0.014501450145014501
+GonzoNation: 0.014001400140014001
+neurn2: 0.013401340134013402
+G-Solutions: 0.012201220122012201
+beach-bum: 0.011901190119011902
+Sleekery: 0.011101110111011102
+justjustjust: 0.010901090109010901
+
+Top 10 closeness centrality connected component:
+piede: 0.07260709948463609
+geargirl: 0.07161129549647471
+sluggdiddy: 0.06574387365743874
+beach-bum: 0.06500837741659406
+Sleekery: 0.06389012726418945
+noeatnosleep: 0.06364183494837737
+justjustjust: 0.06320639081452005
+onique: 0.06302946599768444
+GonzoNation: 0.06302946599768444
+G-Solutions: 0.06197770989897889
+
+Top 10 betweenness centrality connected component:
+sluggdiddy: 0.004417507893370597
+GonzoNation: 0.0034916208954373557
+ridger5: 0.002988040489122814
+neurn2: 0.0026658957770989817
+G-Solutions: 0.0025977039738487397
+onique: 0.0024408890957070997
+OmegaSeven: 0.002256103304084626
+noeatnosleep: 0.0022169517135198903
+geargirl: 0.001973018437415366
+Sleekery: 0.0019534978553213305
+Year: 2015
+Number of nodes: 10000
+Number of edges: 4799
+Assortativity: -0.032
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 4.8e-05
+Overall_reciprocity: 0.37591
+Number of strongly connected component: 9090
+Average degree: 0.4799
+
+
+Top 10 degree centrality connected component:
+piede: 0.013701370137013702
+atl2ptown: 0.012801280128012802
+DEYoungRepublicans: 0.012501250125012502
+annoyingstranger: 0.009500950095009501
+todayilearned83: 0.009000900090009001
+ThisIsNotAPhotograph: 0.008500850085008501
+HonoredPeople: 0.0084008400840084
+perjury222: 0.0083008300830083
+Phunk131: 0.008100810081008101
+ryan924: 0.0079007900790079
+
+Top 10 closeness centrality connected component:
+piede: 0.05208458508188481
+DEYoungRepublicans: 0.05067618209887706
+todayilearned83: 0.04931767156056481
+perjury222: 0.045636243187359246
+tnelsen: 0.0452143523258752
+ThisIsNotAPhotograph: 0.044760190304744756
+jppwc1p: 0.044442742146555074
+ryan924: 0.04435426953445178
+running_over_rivers: 0.04414936806521289
+proggieus: 0.043630472707845196
+
+Top 10 betweenness centrality connected component:
+atl2ptown: 0.002575210877853386
+sailorbrendan: 0.0017860061478402053
+DEYoungRepublicans: 0.001657800150356919
+annoyingstranger: 0.0016100103797403655
+ryan924: 0.0016012432683892755
+ThisIsNotAPhotograph: 0.0015193766249314694
+HonoredPeople: 0.001515330229421975
+piede: 0.0014690497625282372
+perjury222: 0.0014189840972348418
+tnelsen: 0.0013569068226544365
+Year: 2016
+Number of nodes: 10000
+Number of edges: 5246
+Assortativity: -0.0112
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 5.2e-05
+Overall_reciprocity: 0.34274
+Number of strongly connected component: 9084
+Average degree: 0.5246
+
+
+Top 10 degree centrality connected component:
+PikachuSquarepants: 0.013001300130013002
+RedAnarchist: 0.010601060106010602
+carlclashfan: 0.009700970097009702
+seanosul: 0.009000900090009001
+cl33t: 0.008700870087008702
+heyhey922: 0.008200820082008202
+Geikamir: 0.008100810081008101
+wonderingsocrates: 0.0079007900790079
+_PresidentTrump: 0.0077007700770077014
+reluctant_qualifier: 0.007500750075007501
+
+Top 10 closeness centrality connected component:
+PikachuSquarepants: 0.05250914970144058
+wonderingsocrates: 0.05086183367295828
+_PresidentTrump: 0.049735372167688766
+Muh_Condishuns: 0.04692384328418998
+heyhey922: 0.046772754552364154
+cl33t: 0.046729764888253526
+seanosul: 0.04644163891155043
+freakincampers: 0.04535413398610156
+RedAnarchist: 0.04530361701797268
+SandersSoldier: 0.045202919936359054
+
+Top 10 betweenness centrality connected component:
+carlclashfan: 0.0023651650755204057
+_PresidentTrump: 0.001426080860826863
+heyhey922: 0.0013713849019780517
+RedAnarchist: 0.0013459169764649397
+cl33t: 0.001337276569371497
+Muh_Condishuns: 0.001298991528888931
+freakincampers: 0.0012549673872275155
+Geikamir: 0.001247750256220171
+PikachuSquarepants: 0.00118327254780663
+reluctant_qualifier: 0.0011183043959239998
+Year: 2017
+Number of nodes: 10000
+Number of edges: 4137
+Assortativity: -0.0459
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 4.1e-05
+Overall_reciprocity: 0.292
+Number of strongly connected component: 9265
+Average degree: 0.4137
+
+
+Top 10 degree centrality connected component:
+throwaway5272: 0.012501250125012502
+Writerhaha: 0.011401140114011402
+Axewhipe: 0.011101110111011102
+smithcm14: 0.008600860086008601
+Itsprobablysarcasm: 0.008500850085008501
+whatnowdog: 0.0077007700770077014
+justkjfrost: 0.007300730073007301
+MrsMI1UCAN2: 0.007300730073007301
+mjk1093: 0.006900690069006901
+suckZEN: 0.006700670067006701
+
+Top 10 closeness centrality connected component:
+throwaway5272: 0.04540490221333873
+mjk1093: 0.04135259288133067
+IWasRightOnce: 0.041045275752307694
+Itsprobablysarcasm: 0.04044414400432428
+suckZEN: 0.03981439089699051
+NSA_Monitoring: 0.03974562683671937
+Fuck_Steve_Bannon: 0.03918169910067056
+Sly_Wood: 0.03912618521699152
+snarkasonne: 0.03899359153650468
+konorM: 0.038916659422424775
+
+Top 10 betweenness centrality connected component:
+Axewhipe: 0.0019199649084994006
+Writerhaha: 0.0016665692060699629
+whatnowdog: 0.0013875037667607979
+Itsprobablysarcasm: 0.0011983995951002884
+MrsMI1UCAN2: 0.0011312916780135392
+smithcm14: 0.001092262011859053
+Sly_Wood: 0.0009606319878449813
+throwaway5272: 0.0009029397099947427
+NSA_Monitoring: 0.0008723432722117002
+mjk1093: 0.0008067952792141156
+Year: 2018
+Number of nodes: 10000
+Number of edges: 4380
+Assortativity: -0.0578
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 4.4e-05
+Overall_reciprocity: 0.32283
+Number of strongly connected component: 9237
+Average degree: 0.438
+
+
+Top 10 degree centrality connected component:
+AndIAmEric: 0.021202120212021204
+DesperateDem: 0.014301430143014302
+TowelCarryingTourist: 0.012301230123012302
+MorboForPresident: 0.0088008800880088
+mafco: 0.008500850085008501
+lucrezia__borgia: 0.008000800080008
+chownrootroot: 0.007500750075007501
+-poop-in-the-soup-: 0.007100710071007101
+madazzahatter: 0.0070007000700070005
+FookYu315: 0.006600660066006601
+
+Top 10 closeness centrality connected component:
+AndIAmEric: 0.04826180175729182
+TowelCarryingTourist: 0.045911688559053226
+mafco: 0.04246527096041956
+AltWriteGrammarNazi: 0.04242780160368978
+DesperateDem: 0.04232820582527737
+humpdayreporter: 0.04219202265356691
+lucrezia__borgia: 0.04141674575152031
+Thalesian: 0.040969760139887894
+madazzahatter: 0.04052973265025022
+chownrootroot: 0.04046410251123289
+
+Top 10 betweenness centrality connected component:
+AndIAmEric: 0.0032561611915490314
+DesperateDem: 0.0024757483607946345
+TowelCarryingTourist: 0.001318958450390168
+MorboForPresident: 0.0011377043308495273
+mafco: 0.0010777577348979966
+-poop-in-the-soup-: 0.000912484255325581
+lucrezia__borgia: 0.000886485936433268
+jiaxingseng: 0.0006571169521289216
+RogerStonesSantorum: 0.0006134300580545431
+bexmex: 0.000590928368868645
+Year: 2019
+Number of nodes: 10000
+Number of edges: 2362
+Assortativity: -0.0465
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 2.4e-05
+Overall_reciprocity: 0.25318
+Number of strongly connected component: 9607
+Average degree: 0.2362
+
+
+Top 10 degree centrality connected component:
+sigseved: 0.011601160116011602
+CovfefeForAll: 0.0089008900890089
+BigNickDipples: 0.006900690069006901
+Mrtw33tums: 0.005300530053005301
+kciuq1: 0.005000500050005001
+SHARTBLAST_FARTMAN: 0.005000500050005001
+ksanthra: 0.004800480048004801
+swolemedic: 0.004300430043004301
+zardoz_the_uplink: 0.0042004200420042
+hyuzimo: 0.004000400040004
+
+Top 10 closeness centrality connected component:
+sigseved: 0.032099307979822495
+Mrtw33tums: 0.025137085674701055
+no_drama_obama_: 0.025089879880006785
+CovfefeForAll: 0.024798813988127354
+zardoz_the_uplink: 0.024170711960386452
+SHARTBLAST_FARTMAN: 0.024094429280619677
+hyuzimo: 0.023889782809304625
+PressurePass: 0.023418687179848574
+JeromeCorsisMemory: 0.023387940544601506
+BigNickDipples: 0.02278952841979294
+
+Top 10 betweenness centrality connected component:
+CovfefeForAll: 0.0007168027168667097
+SHARTBLAST_FARTMAN: 0.0006753672095680916
+BigNickDipples: 0.0006370491619106882
+swolemedic: 0.0004637054737485787
+ksanthra: 0.0004634741580224047
+kciuq1: 0.00041833372184777655
+whenimmadrinkin: 0.000391758140235711
+TheHasturRule: 0.00037274682658481646
+JeromeCorsisMemory: 0.00035811746552623244
+DemocraticRepublic: 0.0003343085509684927
+Year: 2020
+Number of nodes: 10000
+Number of edges: 1371
+Assortativity: -0.1273
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 1.4e-05
+Overall_reciprocity: 0.24362
+Number of strongly connected component: 9769
+Average degree: 0.1371
+
+
+Top 10 degree centrality connected component:
+dingo8yobb: 0.016101610161016102
+UGMadness: 0.0054005400540054005
+autotldr: 0.004300430043004301
+bulbasauuuur: 0.0037003700370037006
+PoliticalPleionosis: 0.0032003200320032004
+123ilovelaughing123: 0.0031003100310031005
+ReflexImprov: 0.0031003100310031005
+iggy555: 0.0029002900290029006
+Gothamtonian: 0.0028002800280028
+drowningfish: 0.0026002600260026003
+
+Top 10 closeness centrality connected component:
+dingo8yobb: 0.022193257061555213
+thundersass: 0.015788491600837933
+UGMadness: 0.015763738536015762
+Snoo55449: 0.015365677652023855
+history777: 0.014002318189363401
+PoliticalPleionosis: 0.013953056041072673
+Toybasher: 0.013830883669087001
+thenewyorkgod: 0.013504507741244846
+GatorEvo: 0.013392304093766877
+LamentablyTrivial: 0.013319085333190853
+
+Top 10 betweenness centrality connected component:
+dingo8yobb: 0.000645103473906558
+thundersass: 0.0005134369350919538
+123ilovelaughing123: 0.0003732835921330679
+Gothamtonian: 0.0003522288472229957
+Joopsman: 0.0002592826549985311
+PoliticalPleionosis: 0.0002584624679112931
+bulbasauuuur: 0.00024536911126173653
+mabhatter: 0.00021073029213400878
+PHATsakk43: 0.00019685191383047318
+Snoo55449: 0.00016850932901004591
+Year: 2021
+Number of nodes: 10000
+Number of edges: 1183
+Assortativity: -0.0473
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 1.2e-05
+Overall_reciprocity: 0.29586
+Number of strongly connected component: 9796
+Average degree: 0.1183
+
+
+Top 10 degree centrality connected component:
+Kamelasa: 0.004500450045004501
+LolAtAllOfThis: 0.0042004200420042
+HotpieTargaryen: 0.0039003900390039005
+OTFasian: 0.0028002800280028
+doowgad1: 0.0026002600260026003
+KieyraJones: 0.0025002500250025004
+Randy_Watson: 0.0023002300230023005
+MaizeNBlueWaffle: 0.0021002100210021
+mintaphil: 0.002000200020002
+TheExtremistModerate: 0.0019001900190019003
+
+Top 10 closeness centrality connected component:
+hippiedawg: 0.010114306228310693
+mintaphil: 0.009952467146803886
+LolAtAllOfThis: 0.009817120629325445
+OTFasian: 0.009486662952009485
+buffyfan12: 0.00860172149859258
+williamb100: 0.008361192466685423
+doowgad1: 0.008342762266935172
+aktivate74: 0.008221208386933113
+Randy_Watson: 0.008025830516012494
+Xerazal: 0.00794592733609644
+
+Top 10 betweenness centrality connected component:
+HotpieTargaryen: 0.0002965679748951198
+Kamelasa: 0.00023345273561383397
+Xerazal: 0.00020909274484261927
+CassandraVindicated: 0.0001757090822263593
+doowgad1: 0.00017146480786343476
+LoudestNoises: 0.00015665360833404355
+TUGrad: 0.00012018871682643614
+TheExtremistModerate: 9.71799438588506e-05
+HedonisticFrog: 9.402623773682801e-05
+sean0883: 9.382469315049889e-05
+Year: 2022
+Number of nodes: 10000
+Number of edges: 1368
+Assortativity: -0.0814
+Node connectivity: 0
+Edge connectivity: 0
+Graph density: 1.4e-05
+Overall_reciprocity: 0.2383
+Number of strongly connected component: 9785
+Average degree: 0.1368
+
+
+Top 10 degree centrality connected component:
+poop_scallions: 0.0107010701070107
+temporary1953: 0.0102010201020102
+Karma-Kosmonaut: 0.004800480048004801
+sugarlessdeathbear: 0.0047004700470047005
+stankmanly: 0.0042004200420042
+nonamenolastname: 0.004000400040004
+RamblinGamblinFlan: 0.0039003900390039005
+julbull73: 0.0038003800380038005
+Beforemath: 0.0030003000300030005
+AusToddles: 0.0019001900190019003
+
+Top 10 closeness centrality connected component:
+poop_scallions: 0.01915381972209621
+temporary1953: 0.018357098867781516
+stankmanly: 0.01767050810946617
+RamblinGamblinFlan: 0.01601826849351602
+sugarlessdeathbear: 0.015457228353285649
+bluetexan62: 0.01538458367113307
+JakeFranklin: 0.015169584755085678
+ajmartin527: 0.014985906075014986
+Karma-Kosmonaut: 0.01484270924147774
+Al_Redditor: 0.014378100044046957
+
+Top 10 betweenness centrality connected component:
+poop_scallions: 0.0008906547262238194
+sugarlessdeathbear: 0.00039678988617291113
+julbull73: 0.0002856511062855308
+temporary1953: 0.00024318899548565957
+relator_fabula: 0.0001517061397601862
+GiantSquidd: 0.00014353686771338624
+Al_Redditor: 0.0001384167008133381
+Beforemath: 0.00012995380497098663
+nonamenolastname: 0.0001239999355959179
+Xtrm: 0.00010736262330640614
